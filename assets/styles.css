@@ -1,0 +1,13 @@
+footer{
+    display:flex;
+    background-color:#808080;
+    }
+    button {     
+        background-color:  #4992ca;
+     border: 2px solid black;
+    font-size: 30px;
+    }
+    
+    article{
+    background-color:  #4992ca;
+    }
