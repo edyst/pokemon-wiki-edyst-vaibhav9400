@@ -67,7 +67,12 @@
     
     .tmid {
         text-align: center;
-      border: 2px;
+      background-color: #4992ca;
+        color: white;
+        padding: 10px;
+        width: 150px;
+      border: 2px
+      
     }
 
     
